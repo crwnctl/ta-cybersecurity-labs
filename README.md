@@ -7,14 +7,14 @@ Focused on hands-on lab development, red/blue team simulation, and applied secur
 ## 🧪 Labs
 - Layered Defense SIEM Simulation (Fail2Ban + SSH brute force)
 
-### 📄 Layered Defense Simulation Lab (PDF Preview)
-<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/crwnctl/ta-cybersecurity-labs/main/Labs/Layered%20Defense%20Simulation.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+### 📄 Layered Defense Simulation Lab (PDF)
+[View PDF](./Labs/Layered%20Defense%20Simulation.pdf) — SIEM simulation lab using lnav and Fail2Ban
 
 ## 🧠 Case Studies
 - Operation Absolute Resolve (Red Team Perspective on ICS/OT attack chains)
 
-### 🎯 Mapping A Target - Attacker's Perspective (PPTX Preview)
-<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/crwnctl/ta-cybersecurity-labs/main/Labs/Mapping_A_Target_Attackers_Perspective(1).pptx&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+### 🎯 Mapping A Target - Attacker's Perspective (Presentation)
+[View Presentation](./Labs/Mapping_A_Target_Attackers_Perspective(1).pptx) — Red team reconnaissance methodology
 
 ## ⚙️ Skills Demonstrated
 - SIEM simulation (lnav)
